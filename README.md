@@ -4,11 +4,11 @@ We'll build up to the mean stack, meant for beginners with a mac, linux box, or 
 
 ## Sequence of courses follows:
 
-1) Beginning WebDev -- Start a Project Blog
-2) Dynamic Web-Pages with Node.js Express and Swig
-3) +Database with MongoDB
-4) SPA acceleration with Angular.js 
-5) MEAN.js and Full-Stack Web-Dev Consideration
+1. Beginning WebDev -- Start a Project Blog
+2. Dynamic Web-Pages with Node.js Express and Swig
+3. +Database with MongoDB
+4. SPA acceleration with Angular.js 
+5. MEAN.js and Full-Stack Web-Dev Consideration
 
 ---
 
